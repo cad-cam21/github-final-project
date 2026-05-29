@@ -1,0 +1,19 @@
+curl -L https://api.github.com/repos/cad-cam21/Task-1/pulls
+
+[
+{
+"id": 123456789,
+"state": "closed",
+"title": "bug fix typo",
+"head": {
+"ref": "bug-fix-typo",
+"repo": {
+"full_name": "cad-cam21/Task-1",
+"fork": true
+}
+},
+"base": {
+"ref": "main"
+}
+}
+]
