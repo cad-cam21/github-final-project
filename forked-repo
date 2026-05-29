@@ -1,0 +1,13 @@
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+
+curl -L https://api.github.com/repos/cad-cam21/Task-1
+
+{
+"id": 123456789,
+"name": "Task-1",
+"full_name": "cad-cam21/Task-1",
+"fork": true,
+"parent": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
